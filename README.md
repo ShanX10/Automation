@@ -6,27 +6,27 @@ This repository contains Java-based Selenium automation projects developed while
 
 ## Technologies
 
-* Java
-* Selenium WebDriver
-* TestNG
+- Java
+- Selenium WebDriver
+- TestNG
 
 ## Topics Covered
 
-* Browser automation
-* Web element interaction
-* Login automation
-* Alerts
-* Dropdowns
-* Checkboxes
-* Radio buttons
-* Mouse actions
-* Drag and Drop
-* Explicit and Implicit Waits
-* Assertions
-* TestNG Annotations
-* Data Providers
-* Dependencies
-* Timeouts
+- Browser automation
+- Web element interaction
+- Login automation
+- Alerts
+- Dropdowns
+- Checkboxes
+- Radio buttons
+- Mouse actions
+- Drag and Drop
+- Explicit and Implicit Waits
+- Assertions
+- TestNG Annotations
+- Data Providers
+- Dependencies
+- Timeouts
 
 ## Purpose
 
